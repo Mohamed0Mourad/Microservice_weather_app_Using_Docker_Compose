@@ -1,4 +1,4 @@
-module github.com/abohmeed/auth
+module github.com/Mohamed0Mourad/auth
 
 go 1.20
 
